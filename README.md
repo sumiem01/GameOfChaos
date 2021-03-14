@@ -28,6 +28,6 @@ Reality:
 But after some adjustment (100 000 points, and arguments size = 0.2, alpha = 0.1 in plt.scatter()) reality seems more bearable:  
 ![image](https://user-images.githubusercontent.com/26064347/111077214-ff49aa00-84ef-11eb-8f04-d6e52df4b8af.png)
 
-This is how triangle looks with this condition:
+This is how triangle looks with this condition:  
 ![image](https://user-images.githubusercontent.com/26064347/111077460-294f9c00-84f1-11eb-8ae1-b83d878b00a6.png)
 
