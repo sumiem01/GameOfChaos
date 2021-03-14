@@ -17,4 +17,5 @@ Reality:
 
 
 But after some adjustment reality seems more bearable:
-![image](https://user-images.githubusercontent.com/26064347/111076713-bb55a580-84ed-11eb-9cba-02fe82cef558.png)
+![image](https://user-images.githubusercontent.com/26064347/111076766-f8ba3300-84ed-11eb-8116-52bba2770b3d.png)
+
