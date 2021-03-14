@@ -51,7 +51,7 @@ def simulate_points(figure: np.array, number_iterations: int, vetices: int):
 points = simulate_points(square, 100000, 4)
 plt.scatter(square[:, 0], square[:, 1])
 plt.scatter(point_zero[0, 0], point_zero[0, 1])
-plt.scatter(np.array(points)[:, 0], np.array(points)[:, 1], s=0.2)
+plt.scatter(np.array(points)[:, 0], np.array(points)[:, 1], s=0.2, alpha=0.1)
 
 plt.show()
 
