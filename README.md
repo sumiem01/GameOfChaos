@@ -8,3 +8,13 @@ Next you randomly choose one of the vertex of the triangle and add a point in th
 Repeat until you get around 1000 iterations then you will receive something similar to Sierpinski's Triangle.
 
 I will try to simulate different objects. Maybe in a square or octagon there will be similar fractals. Let's see.
+
+Expectations:
+![image](https://user-images.githubusercontent.com/26064347/111076695-a842d580-84ed-11eb-8003-767889932aa4.png)
+
+Reality:
+![image](https://user-images.githubusercontent.com/26064347/111076702-ad078980-84ed-11eb-8b58-e467cc1da545.png)
+
+
+But after some adjustment reality seems more bearable:
+![image](https://user-images.githubusercontent.com/26064347/111076713-bb55a580-84ed-11eb-9cba-02fe82cef558.png)
