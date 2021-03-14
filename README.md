@@ -9,13 +9,14 @@ Repeat until you get around 1000 iterations then you will receive something simi
 
 I will try to simulate different objects. Maybe in a square or octagon there will be similar fractals. Let's see.
 
-Expectations:
+Expectations:  
 ![image](https://user-images.githubusercontent.com/26064347/111076695-a842d580-84ed-11eb-8003-767889932aa4.png)
 
-Reality:
+Reality:  
 ![image](https://user-images.githubusercontent.com/26064347/111076702-ad078980-84ed-11eb-8b58-e467cc1da545.png)
 
 
-But after some adjustment reality seems more bearable:
-![image](https://user-images.githubusercontent.com/26064347/111076766-f8ba3300-84ed-11eb-8116-52bba2770b3d.png)
+But after some adjustment (100 000 points, and arguments size = 0.2, alpha = 0.1 in plt.scatter()) reality seems more bearable:  
+![image](https://user-images.githubusercontent.com/26064347/111077214-ff49aa00-84ef-11eb-8f04-d6e52df4b8af.png)
+
 
