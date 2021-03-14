@@ -9,7 +9,7 @@ Repeat.
 
 Intuitively when we distribute something randomly inside a shape we should expect just random set of points inside. But adding condition about half of distance between vertices of a triangle we got this beautiful shape called Sierpinski's triangle.
 
-This is how it suppose to look. Blue dots are vertices, Orange dot is starting point, Green ones are next steps of iteration.
+This is how it suppose to look (100 000 points, plt.scatter(..., size=0.1, alpha=0.1)). Blue dots are vertices, Orange dot is starting point, Green ones are next steps of iteration.  
 ![image](https://user-images.githubusercontent.com/26064347/111077460-294f9c00-84f1-11eb-8ae1-b83d878b00a6.png)
 
 
