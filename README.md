@@ -16,6 +16,6 @@ Reality:
 ![image](https://user-images.githubusercontent.com/26064347/111076702-ad078980-84ed-11eb-8b58-e467cc1da545.png)
 
 
-But after some adjustment reality seems more bearable:  
+But after some adjustment (100 000 points, and size = 0.2 in plt.scatter()) reality seems more bearable:  
 ![image](https://user-images.githubusercontent.com/26064347/111076766-f8ba3300-84ed-11eb-8116-52bba2770b3d.png)
 
